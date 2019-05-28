@@ -5688,4 +5688,15 @@
     <Description>Load Removal is available (by SuicideMachine)</Description>
     <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts</Website>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Trine 2</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/MaximumLeech/Autosplitters/master/Trine2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>IGT Timer for Trine 2</Description>
+    <Website>https://github.com/MaximumLeech/Autosplitters</Website>
+  </AutoSplitter>
 </AutoSplitters>
